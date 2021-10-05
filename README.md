@@ -1,5 +1,5 @@
 <h1> Opifit </h1>
-<img src="https://user-images.githubusercontent.com/73224206/136049760-ba7092d0-7d08-4719-8a02-9fd18fed5316.png" weight="10" >
+<img src="https://user-images.githubusercontent.com/73224206/136049760-ba7092d0-7d08-4719-8a02-9fd18fed5316.png" width=10 >
 This was my internship work, I had to design and develop an application to help customers buy clothes according their body type's. 
 
 <h2> Mock-up </h2>
