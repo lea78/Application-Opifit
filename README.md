@@ -16,7 +16,9 @@ The first part was dedicated to the design of the app, and a Mock up made on Fig
 Then I developped the application on Flutter, with interfaces close to the Mock-up. The credentials and data were managed by Firebase. 
 
 <section style=" center">
- <img src="https://user-images.githubusercontent.com/73224206/136966978-5bf8834d-5e96-440d-9b30-f5cc367bda49.png" width=200> <img src="https://user-images.githubusercontent.com/73224206/136967128-b1fe58c2-827e-4f8b-9b38-bc427460f7bd.png" width=200> <img src="https://user-images.githubusercontent.com/73224206/136967856-509e82a7-1108-4658-82eb-e95c6802f863.png" width=200> <img src="https://user images.githubusercontent.com/73224206/136967996-daaba1d9-b2de-4049-90c6-7ed40ca274de.png" width=200>
+ <img src="https://user-images.githubusercontent.com/73224206/136967856-509e82a7-1108-4658-82eb-e95c6802f863.png" width=200><img src="https://user-images.githubusercontent.com/73224206/136966978-5bf8834d-5e96-440d-9b30-f5cc367bda49.png" width=200> <img src="https://user-images.githubusercontent.com/73224206/136968611-b2e7e406-7931-47d4-96d9-9983a5fc5927.png" width=200> <img src="https://user-images.githubusercontent.com/73224206/136967128-b1fe58c2-827e-4f8b-9b38-bc427460f7bd.png" width=200>  
+
+
 </section>
 
 
